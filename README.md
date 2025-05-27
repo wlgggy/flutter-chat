@@ -1,6 +1,9 @@
-# assignment1
+# [flutter]assignment1
 
-으악 첫과제다
+으악 예찬쌤 수업 첫과제다.. 
+- 키패드 번호 입력 및 포맷팅
+- 전화번호 부 제작
+- dropdown
 
 ## Getting Started
 
