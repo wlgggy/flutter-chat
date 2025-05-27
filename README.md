@@ -1,4 +1,4 @@
-# [flutter]assignment1
+# [flutter] assignment1
 
 으악 예찬쌤 수업 첫과제다.. 
 - 키패드 번호 입력 및 포맷팅
